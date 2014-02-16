@@ -1,3 +1,14 @@
+Note: The DNSExit patches is based on a ez-ipupdate fork of v2
+retrived from http://downloads.dnsexit.com/ez-ipupdate.tar.gz on
+20140216. It is clearly licenced under GPL2. This was then ported to
+Debians ez-ipupdate_3.0.11b8-13.3, where the source is not quite as
+clear. It just says "GPL".
+
+I make no additional claims to copyright, and anything that retches
+threshold of originality from my side in this patch is to be
+considered public domain.
+
+
 GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
